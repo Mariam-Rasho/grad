@@ -1,2 +1,2 @@
-const url = `https://medlifesy.org/rehla/`
+const url = `https://medlifesy.org/rehla`
 export default url
