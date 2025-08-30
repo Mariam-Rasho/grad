@@ -1,2 +1,2 @@
-const url = `http://localhost:8000`
+const url = `https://medlifesy.org/rehla/`
 export default url
