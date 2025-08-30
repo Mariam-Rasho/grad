@@ -26,6 +26,7 @@ export default function Activities() {
             Accept: "application/json",
           },
         });
+        
         setActivities(response.data.data);
       } catch (error) {
         console.error("فشل في جلب النشاطات:", error);
